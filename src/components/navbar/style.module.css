@@ -1,0 +1,13 @@
+.main {
+  background-color: #000000;
+  display: flex;
+  justify-content: space-around;
+  padding: 2%;
+}
+.a {
+  color: white;
+  cursor: pointer;
+}
+.a:hover {
+  color: yellow !important;
+}

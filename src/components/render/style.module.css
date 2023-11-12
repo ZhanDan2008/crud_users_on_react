@@ -1,0 +1,39 @@
+#delete {
+  background-color: red;
+}
+.main {
+  background-color: #101010;
+  width: 100%;
+}
+.img {
+  position: absolute;
+  z-index: 70;
+  left: 3%;
+  top: 5%;
+}
+.card {
+  width: 80% !important;
+  margin-top: -10%;
+  position: relative;
+  max-height: 14.5%;
+  background-color: #696969;
+}
+.button {
+  background-color: green;
+  border-radius: 5%;
+  width: 20%;
+  height: 70%;
+  position: absolute;
+  right: 5%;
+  top: 15%;
+}
+.button:hover {
+  background-color: darkgreen;
+  text-decoration: underline;
+}
+.users {
+  height: 400px;
+  overflow-y: scroll;
+  width: 80%;
+  margin-left: 10%;
+}
